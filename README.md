@@ -12,9 +12,9 @@ Además cuenta con un spinner y un mensaje de éxito.
 
 ## *Version 1.0.0:*
 
-- [![App](https://img.shields.io/badge/App-informational?style=for-the-badge&logo=netlify&logoColor=fff&color=23272d)](https://...)
+- [![App](https://img.shields.io/badge/App-informational?style=for-the-badge&logo=netlify&logoColor=fff&color=23272d)](https://nahuel-devone.github.io/simulador-envio-emails/)
 
-- No tiene incorporada ninguna base de datos
+- Simulador de envío de emails, con validaciones y regex para el email
 
 ## *Desarrollado con:*
 
