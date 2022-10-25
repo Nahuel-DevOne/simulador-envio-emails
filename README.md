@@ -27,19 +27,19 @@ Además cuenta con un spinner y un mensaje de éxito.
 ## **Screenshots:**
 
 ### 1. Presentación:
-## ![]()
+## ![](./img/home.png)
 
 ### 2. Errores:
 
-## ![]()
+## ![](./img/errores.png)
 
 ### 3. Email validado:
 
-## ![]()
+## ![](./img/validado.png)
 
 ### 3. Mensaje enviado exitosamente:
 
-## ![]()
+## ![](./img/enviado.png)
 
 
   <!-- Hecho con amor -->
